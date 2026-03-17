@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Magicarium.Tests/Magicarium.Tests.csproj" />
+  <Project Path="Magicarium/Magicarium.csproj" />
+</Solution>
