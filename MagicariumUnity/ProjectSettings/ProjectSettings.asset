@@ -1,0 +1,177 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!129 &1
+PlayerSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 23
+  productGUID: d8f5a3b2c1e04f9a8b7c6d5e4f3a2b1c
+  AndroidProfiler: 0
+  AndroidFilterTouchesWhenObscured: 0
+  AndroidEnableSustainedPerformanceMode: 0
+  defaultScreenOrientation: 4
+  targetDevice: 2
+  useOnDemandResources: 0
+  accelerometerFrequency: 60
+  companyName: Drahos141
+  productName: Magicarium
+  defaultCursor: {fileID: 0}
+  cursorHotspot: {x: 0, y: 0}
+  m_SplashScreenBackgroundColor: {r: 0.13333334, g: 0.17254902, b: 0.21176471, a: 1}
+  m_ShowUnitySplashScreen: 1
+  m_ShowUnitySplashLogo: 1
+  m_SplashScreenOverlayOpacity: 1
+  m_SplashScreenAnimation: 1
+  m_SplashScreenLogoStyle: 1
+  m_SplashScreenDrawMode: 0
+  m_SplashScreenBackgroundAnimationZoom: 1
+  m_SplashScreenLogoAnimationZoom: 1
+  m_SplashScreenBackgroundLandscapeAspect: 1
+  m_SplashScreenBackgroundPortraitAspect: 1
+  m_SplashScreenBackgroundLandscapeUvs:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 1
+    height: 1
+  m_SplashScreenBackgroundPortraitUvs:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 1
+    height: 1
+  m_SplashScreenLogos: []
+  m_VirtualRealitySupported: 0
+  m_VRDevices: []
+  m_DefaultInterfaceOrientation: 4
+  m_AllowedAutorotateToPortrait: 1
+  m_AllowedAutorotateToPortraitUpsideDown: 1
+  m_AllowedAutorotateToLandscapeRight: 1
+  m_AllowedAutorotateToLandscapeLeft: 1
+  m_UseOSAutorotation: 1
+  m_Use32BitDisplayBuffer: 1
+  m_PreserveFramebufferAlpha: 0
+  m_DisableDepthAndStencilBuffers: 0
+  m_androidSupportedAspectRatio: 1
+  m_androidMaxAspectRatio: 2.1
+  m_applicationIdentifier:
+    Android: com.Drahos141.Magicarium
+    Standalone: com.Drahos141.Magicarium
+    iPhone: com.Drahos141.Magicarium
+  m_buildNumber: {}
+  m_overrideIPodMusic: 0
+  m_prepareIOSForRecording: 0
+  m_forceIOSSpeakersWhenRecording: 0
+  m_UIRequiresPersistentWiFi: 0
+  m_requiresFullScreen: 1
+  m_statusBarHidden: 1
+  m_ExitOnSuspend: 0
+  m_CaptureSingleScreen: 0
+  m_submitAnalytics: 1
+  m_UsePlayerLog: 1
+  m_BatchMode: 0
+  m_BuildAppBundle: 0
+  m_AutoGraphicsAPI: 1
+  m_UseCustomMainManifest: 0
+  m_UseCustomLaunchActivity: 0
+  m_AndroidMinSdkVersion: 22
+  m_AndroidTargetSdkVersion: 0
+  m_AndroidBuildApkPerCpuArchitecture: 0
+  m_AndroidBundleVersionCode: 1
+  m_AndroidMinification: 0
+  m_AndroidKeyaliasName:
+  m_AndroidKeyaliasPass:
+  m_AndroidKeystoreName:
+  m_AndroidKeystorePass:
+  m_AndroidUseLicenseVerifier: 0
+  m_AndroidEnablePreloadedAssets: 0
+  m_AndroidBuildSubtarget: 0
+  m_AndroidBuildType: 0
+  m_AndroidUseMacAddress: 0
+  m_AndroidSplashScreenScale: 0
+  m_androidSplashScreen: {fileID: 0}
+  m_AndroidKeepLoadedInBackground: 0
+  m_AndroidRestoreActivityDuringApplicationResume: 0
+  m_AndroidBlitType: 0
+  m_AndroidGamepadSupportLevel: 0
+  m_AndroidTargetArchitectures: 1
+  m_AndroidTargetDevices: 0
+  m_iPhoneStrippingLevel: 0
+  m_iPhoneScriptCallOptimization: 0
+  m_ForceInternetPermission: 0
+  m_ForceSDCardPermission: 0
+  m_CreateWallpaper: 0
+  m_APKExpansionFiles: 0
+  m_ApiCompatibilityLevel: 6
+  m_StripEngineCode: 1
+  m_IPhoneAdvertisingIdentifierEnabled: 0
+  m_IOSAppInBackgroundBehavior: 0
+  m_AndroidMaxAspectRatio: 2.1
+  m_StackTraceTypes:
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  m_ActionOnDotNetUnhandledException: 1
+  m_EnableInternalProfiler: 0
+  m_LogObjCUncaughtExceptions: 1
+  m_EnableCrashReportAPI: 0
+  m_EnableInputSystem: 0
+  m_EnableLegacyInputManager: 1
+  m_activeInputHandler: 0
+  m_WindowsGamepadBackButtonAction: 0
+  m_defaultScreenWidth: 1280
+  m_defaultScreenHeight: 720
+  m_defaultScreenWidthWeb: 960
+  m_defaultScreenHeightWeb: 600
+  m_displayResolutionDialog: 0
+  m_defaultIsFullScreen: 0
+  m_defaultIsNativeCursor: 1
+  m_runInBackground: 0
+  m_captureSingleScreen: 0
+  m_SupportedAspectRatios:
+    4:3: 1
+    5:4: 1
+    16:10: 1
+    16:9: 1
+    Others: 1
+  m_prebakeCollisionMeshes: 0
+  m_preserveFramebufferAlpha: 0
+  m_disableOldInputManagerSupport: 0
+  m_githubUserToken:
+  m_iOSURLSchemes: []
+  m_macOSURLSchemes: []
+  m_TargetGlesGraphics: 1
+  m_TargetOpenGLESVersion: 2
+  m_MobileMTRendering:
+    iPhone: 1
+    tvOS: 1
+  m_MTRendering: 1
+  m_gcIncremental: 0
+  m_gcMaxUnityBackgroundThreadCount: 0
+  m_useHDRDisplay: 0
+  m_D3DHDRBitDepth: 0
+  m_ColorGamuts:
+  - 0
+  m_TargetPixelDensity: 30
+  m_ResolutionScalingMode: 0
+  m_HdrBitDepth: 0
+  m_MipStripping: 0
+  m_NumberOfMipsStripped: 0
+  m_NumberOfMipsStrippedPerMipmapLimitGroup: {}
+  m_ExplicitArraySizeLimit: 0
+  m_ArraySizeLimit: 256
+  m_ExplicitNullChecks: 0
+  m_ExplicitDivideByZeroChecks: 0
+  m_ExplicitArrayBoundsChecks: 0
+  m_DevelopmentBuildForceOptimizeScriptCompilation: 0
+  m_DevelopmentBuildForceOptimizeScriptCompilation2: 0
+  m_ManagedCodeStripping: 0
+  m_ShaderPrecisionModel: 0
+  m_NormalMapEncoding: 0
+  m_LightmapEncodingQuality: 1
+  m_HDRCubemapEncodingQuality: 1
+  m_LocalizationRenderDynamicCharactersSystem: 0
+  m_LocalizationPackageFontAssetMappings: []
+  m_CustomLighting: 0
+  serializedVersion: 23
